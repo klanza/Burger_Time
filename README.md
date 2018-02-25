@@ -1,10 +1,6 @@
 # Burger_Time
 
-Fully deployed burger application using Heroku, node.js, handlebars.js, mySQL, and express!
-
-# Burger Time
-
-Command line version of a Amazon-like storefront, created using Node.js and MySQL. Find the app now at https://tranquil-wildwood-36392.herokuapp.com/
+Fully deployed burger application using Heroku, node.js, handlebars.js, mySQL, and express!  Find the app now at https://tranquil-wildwood-36392.herokuapp.com/
 
 ## Getting Started
 
